@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Volvo",
+    "price": 35000,
+    "imageUrl": "https://www.vehicles.com/model.png",
+    "displacement": "7384R6",
+    "maxSpeed": "68232",
+    "length": 74346,
+    "width": 50,
+    "height": 120
+  },
+  {
+    "id": 3,
+    "name": "BMW",
+    "price": 190453,
+    "imageUrl": "https://www.vehicles.com/model12.png",
+    "displacement": "7HD43",
+    "maxSpeed": "3663",
+    "length": 3,
+    "width": 23,
+    "height": 72
+  }
+]
